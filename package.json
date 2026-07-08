@@ -1,0 +1,14 @@
+{
+  "name": "nested-not-patched",
+  "version": "1.0.0",
+  "description": "undici is a purely transitive dependency (via @genql/cli), not yet overridden.",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@genql/cli": "6.3.4"
+  }
+}
